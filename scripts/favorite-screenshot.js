@@ -1,4 +1,4 @@
-//Download from https://www.nirsoft.net/utils/nircmd.html
+//Install Git and copy from C:\Program Files\Git\usr\bin\mkdir.exe or point to that
 var mkdir = "C:/Users/UserName/Desktop/Programs/mkdir/mkdir.exe";
 
 var screenshot_folder = "C:/mpv-screenshots/mpv";
