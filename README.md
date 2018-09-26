@@ -10,6 +10,13 @@ This repository contains my current mpv config and scripts.
 
 I've made this because I like to keep a list on [Wunderlist](https://www.wunderlist.com/) of great scenes for future reference.
 
+Examples:
+
+```
+Foo Bar 24 - 19:29 -> 22:28
+Alice and Bob - 11 - 14:04 -> 14:59
+```
+
 ## Installation
 
 Download the [favorite.js]((scripts/favorite.js)) and place to your mpv's `scripts` directory.
