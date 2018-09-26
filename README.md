@@ -3,7 +3,7 @@ mpv scripts to automate certain tasks
 
 ----
 
-# `favorite.js`
+# `scripts/favorite.js`
 ## What is it?
 
 `favorite.js` is a script for [mpv](https://github.com/mpv-player/mpv) to save timestamps of your favorite TV-shows/Movies/Anime scenes.
