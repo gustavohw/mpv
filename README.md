@@ -1,5 +1,5 @@
-# mpv-scripts
-mpv scripts to automate certain tasks
+# mpv
+This repository contains my current mpv config and scripts.
 
 ----
 
@@ -12,7 +12,7 @@ I've made this because I like to keep a list on [Wunderlist](https://www.wunderl
 
 ## Installation
 
-Download the  `favorite.js` and place to your mpv's `scripts` directory.
+Download the [favorite.js]((scripts/favorite.js)) and place to your mpv's `scripts` directory.
 
 Platforms:
   * Windows only: `mpv\scripts\favorite.js`
